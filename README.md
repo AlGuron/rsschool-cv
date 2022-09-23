@@ -1,1 +1,1 @@
-https://alguron.github.io/rsschool-cv/cv
+https://alguron.github.io/rsschool-cv/
